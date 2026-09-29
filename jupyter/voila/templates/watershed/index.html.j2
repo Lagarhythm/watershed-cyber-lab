@@ -1,0 +1,11 @@
+{%- extends 'voila/templates/lab/index.html.j2' -%}
+{% import "spinner.macro.html.j2" as spinner %}
+{%- block notebook_css -%}
+  {{ resources.include_js("static/voila-style.js") }}
+  {{ spinner.css() }}
+  <style>
+    body { background: #0b1220; margin: 0; }
+    .jp-mod-noOutputs.jp-mod-noInput { display: none; }
+    #rendered_cells { padding: 12px; }
+  </style>
+{%- endblock notebook_css -%}

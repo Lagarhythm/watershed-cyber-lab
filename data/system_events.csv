@@ -1,0 +1,11 @@
+event_id,timestamp,host,username,event_type,process,message
+SYS-000,2026-09-14T09:00:00Z,research-08,jordan,process_start,backup_agent,Scheduled backup
+SYS-005,2026-09-14T09:05:00Z,research-08,jordan,process_start,backup_agent,Scheduled backup
+SYS-010,2026-09-14T09:10:00Z,research-08,jordan,process_start,backup_agent,Scheduled backup
+SYS-015,2026-09-14T09:15:00Z,research-08,jordan,process_start,backup_agent,Scheduled backup
+SYS-020,2026-09-14T09:20:00Z,research-08,jordan,process_start,backup_agent,Scheduled backup
+SYS-025,2026-09-14T09:25:00Z,research-08,jordan,process_start,backup_agent,Scheduled backup
+SYS-040,2026-09-14T09:12:00Z,research-07,riley,job_started,portal_worker,Session DEMO-7 invoked research job runner on research-07
+SYS-041,2026-09-14T09:13:00Z,research-07,riley,file_write,portal_worker,Replaced collector_config.txt; session DEMO-7
+SYS-042,2026-09-14T09:14:00Z,research-07,riley,process_start,sync_agent,Loaded collector_config.txt; session DEMO-7
+SYS-043,2026-09-14T09:23:00Z,research-07,riley,file_read,sync_agent,Read fictional sensitive dataset watershed_private.csv; session DEMO-7

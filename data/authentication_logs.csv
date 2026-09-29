@@ -1,0 +1,12 @@
+event_id,timestamp,host,username,event_type,source_ip,result,message
+AUTH-000,2026-09-14T09:00:00Z,portal-01,jordan,login,192.0.2.10,success,Routine training portal login
+AUTH-003,2026-09-14T09:03:00Z,portal-01,jordan,login,192.0.2.10,success,Routine training portal login
+AUTH-006,2026-09-14T09:06:00Z,portal-01,jordan,login,192.0.2.10,success,Routine training portal login
+AUTH-009,2026-09-14T09:09:00Z,portal-01,jordan,login,192.0.2.10,success,Routine training portal login
+AUTH-012,2026-09-14T09:12:00Z,portal-01,jordan,login,192.0.2.10,success,Routine training portal login
+AUTH-015,2026-09-14T09:15:00Z,portal-01,jordan,login,192.0.2.10,success,Routine training portal login
+AUTH-018,2026-09-14T09:18:00Z,portal-01,jordan,login,192.0.2.10,success,Routine training portal login
+AUTH-021,2026-09-14T09:21:00Z,portal-01,jordan,login,192.0.2.10,success,Routine training portal login
+AUTH-024,2026-09-14T09:24:00Z,portal-01,jordan,login,192.0.2.10,success,Routine training portal login
+AUTH-027,2026-09-14T09:27:00Z,portal-01,jordan,login,192.0.2.10,success,Routine training portal login
+AUTH-041,2026-09-14T09:11:00Z,portal-01,riley,login,198.51.100.23,success,query predicate accepted: username='riley' OR '1'='1'; linked session DEMO-7

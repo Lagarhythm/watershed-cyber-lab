@@ -1,0 +1,3 @@
+# Preserve evidence bytes, including line endings, on every platform.
+data/* -text
+*.csv whitespace=cr-at-eol

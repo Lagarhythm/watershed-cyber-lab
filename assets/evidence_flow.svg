@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="135" viewBox="0 0 1000 135" role="img" aria-labelledby="title desc">
+<title id="title">Follow the evidence</title><desc id="desc">Integrity leads to an artifact, logs, traffic, code review and a reconstructed timeline.</desc>
+<rect width="1000" height="135" rx="12" fill="#eef5fa"/>
+<g fill="#172b3a" font-family="sans-serif" font-size="18" text-anchor="middle">
+<text x="500" y="30" font-size="16">ONE INCIDENT · SIX CONNECTED FINDINGS</text>
+<text x="90" y="82">Integrity</text><text x="180" y="82">→</text><text x="260" y="82">Artifact</text><text x="340" y="82">→</text><text x="415" y="82">Logs</text><text x="490" y="82">→</text><text x="565" y="82">Traffic</text><text x="640" y="82">→</text><text x="725" y="82">Code review</text><text x="820" y="82">→</text><text x="910" y="82">Timeline</text>
+</g></svg>
